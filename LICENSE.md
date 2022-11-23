@@ -1,4 +1,4 @@
-[:us: The **MIT** License](https://github.com/3m1l1a/3m1l1a/LISENSE-en.md)
+[:us: The **MIT** License](https://github.com/3m1l1a/3m1l1a/blob/main/LICENSE-en.md)
 
 :sweden: **MIT** licensen
 

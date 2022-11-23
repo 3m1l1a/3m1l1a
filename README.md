@@ -1,4 +1,4 @@
-[:us: README](https://github.com/3m1l1a/3m1l1a/README-en.md)
+[:us: README](https://github.com/3m1l1a/3m1l1a/blob/main/README-en.md)
 
 :sweden: LÄSMIG
 
@@ -36,7 +36,7 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
   <a href="https://github.com/3m1l1a?tab=followers">
     <img src="https://img.shields.io/github/followers/3m1l1a?label=följare&logo=GitHub&style=for-the-badge&color=orange" alt="GitHub badge" />
   </a>
-  <a href="https://github.com/3m1l1a/3m1l1a/LICENS.md">
+  <a href="https://github.com/3m1l1a/3m1l1a/blob/main/LICENSE.md">
     <img src="https://img.shields.io/badge/License-MIT-9cf.svg?label=License&style=for-the-badge" />
   </a>
   </p>

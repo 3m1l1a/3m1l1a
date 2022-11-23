@@ -1,9 +1,9 @@
-[:us: Changelog](https://github.com/3m1l1a/3m1l1a/CHANGELOG-en.md)
+[:us: Changelog](https://github.com/3m1l1a/3m1l1a/blob/main/CHANGELOG-en.md)
 
 :sweden: Ändringslogg
 
 ## Ännu inte uppladdat
-> För fler kommande ändringar se [färdplanen](https://github.com/3m1l1a/3m1l1a/discussions/categories/roadmap).
+> För fler kommande ändringar se [färdplanen](https://github.com/3m1l1a/3m1l1a/discussions/categories/f%C3%A4rdplan-roadmap).
 
 **Koden för webbplatserna:**
 - emiliatrollros.se
