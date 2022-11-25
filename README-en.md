@@ -21,6 +21,8 @@ https://github.com/arcticicestudio/nord-docs/blob/main/src/components/organisms/
 -->
 
 <h1 align="center">Emilia Trollros</h1>
+
+<p align="center">
 <!--
 https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 -->

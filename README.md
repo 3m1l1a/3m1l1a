@@ -34,10 +34,10 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
     <img src="https://img.shields.io/static/v1?label=NPM&message=3m1l1a&color=red&style=for-the-badge" alt="NPM badge" />
   </a>
   <a href="https://github.com/3m1l1a?tab=followers">
-    <img src="https://img.shields.io/github/followers/3m1l1a?label=följare&logo=GitHub&style=for-the-badge&color=orange" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/3m1l1a?label=Följare&logo=GitHub&style=for-the-badge&color=orange" alt="GitHub badge" />
   </a>
   <a href="https://github.com/3m1l1a/3m1l1a/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/badge/License-MIT-9cf.svg?label=License&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/License-MIT-9cf.svg?label=Licens&style=for-the-badge" />
   </a>
   </p>
 
