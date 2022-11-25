@@ -141,5 +141,5 @@ fullstackutvecklaren, som älskar att väcka känslor hos betraktaren via analog
   <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3m1l1a&theme=nord&show_icons=true&locale=sv&date_format=j%20M%5B%20Y%5D" />
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=3m1l1a&custom_title=Emilia Trollros GitHub aktivitetsgraf&theme=nord&locale=sv" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=3m1l1a&custom_title=Emilia%20Trollros%20GitHub%20aktivitetsgraf&theme=nord&locale=sv" />
 </details>
