@@ -129,13 +129,15 @@ https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
   </summary>
 
   > *Most used languages* is only a metric of the languages my public code consists of and doesn't reflect my experience or skill level.
-
+  <p>
   <!-- https://github.com/anuraghazra/github-readme-stats -->  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3m1l1a&langs_count=8&layout=compact&theme=nord" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=3m1l1a&theme=nord&show_icons=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3m1l1a&langs_count=8&layout=compact&theme=nord" />
+  </p>
+  <p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=3m1l1a&theme=nord&show_icons=true" />
   <!-- https://github.com/denvercoder1/github-readme-streak-stats -->
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3m1l1a&theme=nord&show_icons=true&locale=en" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3m1l1a&theme=nord&show_icons=true&locale=en" />
+  </p>
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=3m1l1a&theme=nord" />
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=3m1l1a&theme=nord" />
 </details>
